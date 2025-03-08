@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Giorno 1: March 8, 2025
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: [Started a static personal website](https://github.com/AlessandroKuz/AlessandroKuz.github.io/tree/cceb488432c5db8fac7b0c56013feb4ff692c00e),
+recorded an introductory video and
+then started the `prerequisites` section of [The Odin Project's Foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with the introductory video, but the setup for the web page was easy.
+I noticed that copying over the navbar was a bit tedious and error-prone, so i should probably consider switching to
+maybe flask or django? For now, it will stay static.
+Did not have any issue on the Odin Project part, maybe a bit tedious since the information was already known.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I had a lot of trouble with the introductory video, since I'm not use to talking and explaining to a camera;
+setting up the website was straightforward (although it was a very simple one).
+I found copying the navbar a bit tedious and prone to errors, so I’m thinking about switching to Flask or Django.
+For now, though, it’ll remain static.
+I didn’t face any issues with the Odin Project section, although it felt a bit repetitive since the information was already familiar.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**
+- [Personal website](https://www.alessandrokuz.github.io)
+- [The Odin Project](https://www.theodinproject.com/)
