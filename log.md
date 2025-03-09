@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Giorno 1: March 8, 2025
+## Day 1: March 8, 2025
 
 **Today's Progress**: [Started a static personal website](https://github.com/AlessandroKuz/AlessandroKuz.github.io/tree/cceb488432c5db8fac7b0c56013feb4ff692c00e),
 recorded an introductory video and
@@ -20,3 +20,22 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 **Link to work:**
 - [Personal website](https://www.alessandrokuz.github.io)
 - [The Odin Project](https://www.theodinproject.com/)
+
+
+## Day 2: March 9, 2025
+
+**Today's Progress**: A little bit of study of the internet and web fundamentals
+
+**Thoughts**: Could have studied a bit more, but it's okay!
+
+
+[//]: # (## Day 3: March 10, 2025)
+
+[//]: # ()
+[//]: # (**Today's Progress**:)
+
+[//]: # ()
+[//]: # (**Thoughts**:)
+
+[//]: # ()
+[//]: # (**Link to the work**:)
