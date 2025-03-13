@@ -29,8 +29,20 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 **Thoughts**: Could have studied a bit more, but it's okay!
 
 
-[//]: # (## Day 3: March 10, 2025)
+## Day 3: March 13, 2025
 
+**Note**: There is a 3 days break due to sickness...
+
+**Today's Progress**: Configured the DNS to the personal website, started working on automatic curriculum generation from a json. Strted using uv and poetry.
+
+**Thoughts**: Need to find out a proper way to link the curriculum to the personal website. Should explore more the usage of uv and poetry in python projects.
+
+**Link to the work**:
+- [Personal website](https://www.alessandrokuz.info)
+
+
+[//]: # (## Day 3: March 10, 2025)
+Today
 [//]: # ()
 [//]: # (**Today's Progress**:)
 
