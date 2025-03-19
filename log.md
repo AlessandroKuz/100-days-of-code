@@ -41,13 +41,25 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 - [Personal website](https://www.alessandrokuz.info)
 
 
-[//]: # (## Day 3: March 10, 2025)
-Today
-[//]: # ()
-[//]: # (**Today's Progress**:)
+## Day 4: March 18, 2025
 
-[//]: # ()
-[//]: # (**Thoughts**:)
+**Note**: Despite the ongoing sickness I decided to keep goin in my Web studies, today I focused on learning more about HTTP, the Web, the Internet and Requests. I also setup a simple Obsidian Vault which I committed to GitHub.
 
-[//]: # ()
-[//]: # (**Link to the work**:)
+**Today's Progress**: Today I studied a bit more of the Web and how it works, I understood that basically it's just a fancy way to allow different computers/machines to interact with each other, whilst also allowing to set important rules, for example autorization, protocols, etc.
+
+**Thoughts**: I like how I setup the Vault and the idea of tracking what I learn gives me the comfort of not "losing knowledge"; even though I don't write down everything when I'm first learning a new concept, I like to keep track of the concepts I touched upon, so that in the future I can decide whether I should delve further in a concept or if I've already explored it enough.
+
+**Link to the work**:
+- [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
+
+<!-- ## Day 5: March 19, 2025 -->
+<!---->
+<!-- **Note**: . -->
+<!---->
+<!-- **Today's Progress**: . -->
+<!---->
+<!-- **Thoughts**: . -->
+<!---->
+<!-- **Link to the work**: -->
+<!-- - [.](https://www.) -->
+
