@@ -52,6 +52,17 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 **Link to the work**:
 - [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
 
+## Day 5: March 19, 2025
+
+**Note**: Kept studying basic Web notions, going throught the main introductory articles of MDN.
+
+**Today's Progress**: Finished the introductory material of MDN, stopping shy of the HTML articles.
+
+**Thoughts**: Kept going, happy to acquire the necessary notions, as in my current web journey I already have some basic HTML, CSS and JavaScript knowledge, but I keep lacking in the HTTP, Requests and Protocols department.
+
+**Link to the work**:
+- [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
+
 <!-- ## Day 5: March 19, 2025 -->
 <!---->
 <!-- **Note**: . -->
