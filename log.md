@@ -63,7 +63,19 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 **Link to the work**:
 - [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
 
-<!-- ## Day 5: March 19, 2025 -->
+## Day 6: March 20, 2025
+
+**Note**: Kept going over the MDN learn "Getting Started" modules.
+
+**Today's Progress**: Reinforced the learnt concepts and reviewed some stuff to start actually working on practical concepts. I also fiddled with `husky` for pre-commit hooks in web projects.
+
+**Thoughts**: I probably misconfigured something with husky, but being the first time that I do something with Node and npm it was expected, with time I'll get it.
+
+**Link to the work**:
+- [Personal website](https://www.alessandrokuz.github.io)
+- [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
+
+<!-- ## Day 7: March 21, 2025 -->
 <!---->
 <!-- **Note**: . -->
 <!---->
