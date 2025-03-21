@@ -75,7 +75,18 @@ I didn’t face any issues with the Odin Project section, although it felt a bit
 - [Personal website](https://www.alessandrokuz.github.io)
 - [Web Knowledge Obsidian Repo](https://www.github.com/AlessandroKuz/My-Web-Knowledge-Hub)
 
-<!-- ## Day 7: March 21, 2025 -->
+## Day 7: March 21, 2025
+
+**Note**: Reviewed research a bit into Git and code versioning, also started the related Obsidian Vault and Repo.
+
+**Today's Progress**: Reviewed some git concepts and commands.
+
+**Thoughts**: It could be a good time investment now that I have hands-on git experience to imporove my theoretical understanding and further my knowledge to edge cases and non standard situations.
+
+**Link to the work**:
+- [Git Knowledge Repo](https://www.github.com/AlessandroKuz/Git-Knowledge-Hub)
+
+<!-- ## Day 8: March 22, 2025 -->
 <!---->
 <!-- **Note**: . -->
 <!---->
